@@ -629,9 +629,4 @@ if (isOTATimeout()) {
 initOTA();
 ```
 
----
 
-Let me know if you want:
-✅ Auto‑generated diagram
-✅ Function‑wise explanation with examples
-✅ Add this README to your GitHub repo
